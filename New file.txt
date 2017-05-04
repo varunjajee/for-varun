@@ -16,3 +16,7 @@ inside task6 branch
 
 
 Updateing data in task 2 branch. and commiting it
+Adding few changes into master branch and commiting.  later trying to merge the changes from task1 branch.
+
+Updating in task1 brannch. and commiting it into local branch
+
