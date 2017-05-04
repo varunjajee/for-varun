@@ -24,7 +24,6 @@ Updating in task1 brannch. and commiting it into local branch
 
 Git multiple commits.
 
-
-
+Git diff between 2 commits.
 
 
