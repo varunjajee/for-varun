@@ -11,3 +11,6 @@ Switched to task 2 branch
 
 In main branch
 
+***
+inside task6 branch
+
