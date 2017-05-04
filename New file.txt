@@ -26,7 +26,8 @@ Git multiple commits.
 
 Git diff between 2 commits.
 
-
-
-
 two
+
+
+one
+
