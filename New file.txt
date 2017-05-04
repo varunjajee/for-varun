@@ -14,3 +14,4 @@ In main branch
 ***
 inside task6 branch
 
+Adding few changes into master branch and commiting.  later trying to merge the changes from task1 branch and task2 branch.
