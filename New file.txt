@@ -6,3 +6,8 @@ Try to test 2 commits.
 
 step 3
 Trying diff. After 2 commits.
+
+Switched to task 2 branch
+
+In main branch
+
