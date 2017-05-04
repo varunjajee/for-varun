@@ -35,3 +35,5 @@ three
 four
 
 five
+
+Test most commands locally.
