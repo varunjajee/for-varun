@@ -1,3 +1,8 @@
+Step one
 Test git add command
 
+step 2
 Try to test 2 commits.
+
+step 3
+Trying diff. After 2 commits.
